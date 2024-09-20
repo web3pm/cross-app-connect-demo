@@ -10,10 +10,10 @@ const connectors = connectorsForWallets(
       groupName: "Recommended",
       wallets: [
         toPrivyWallet({
-          id: "clxva96js0039k9pb3pw2uovx", // The Privy app id of provider application
-          name: "Strawberry Fields", // The name of the provider application
+          id: "clgzbctl300bzl808t9kh4dpg", // The Privy app id of provider application
+          name: "Icebreaker", // The name of the provider application
           iconUrl:
-            "https://privy-assets-public.s3.amazonaws.com/strawberry.png", // The icon to appear in the connector modal
+            "https://icebreaker-nft-images.s3.amazonaws.com/icebreaker_privy_320x80%401x.png", // The icon to appear in the connector modal
         }),
       ],
     },
